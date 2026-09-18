@@ -1,9 +1,12 @@
 faster-whisper
 sounddevice
 pynput
-pyobjc-framework-Quartz
-pyobjc-framework-Cocoa
-pyobjc-framework-ApplicationServices
 pyyaml
 requests
 numpy
+pyperclip
+pystray; sys_platform == 'win32'
+Pillow; sys_platform == 'win32'
+pyobjc-framework-Quartz; sys_platform == 'darwin'
+pyobjc-framework-Cocoa; sys_platform == 'darwin'
+pyobjc-framework-ApplicationServices; sys_platform == 'darwin'
