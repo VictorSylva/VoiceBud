@@ -8,7 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%20--%203.14-3776AB?logo=python&logoColor=white)](https://python.org)
 [![faster-whisper](https://img.shields.io/badge/STT-faster--whisper%20(CTranslate2)-FF6F00)](https://github.com/SYSTRAN/faster-whisper)
 [![Ollama](https://img.shields.io/badge/LLM%20Cleanup-Ollama%20(Qwen%20%2F%20Llama)-000000?logo=ollama&logoColor=white)](https://ollama.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue)](https://github.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue)](https://github.com/VictorSylva/VoiceBud)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
@@ -82,8 +82,8 @@ flowchart LR
 
 ```powershell
 # 1. Clone this repository
-git clone https://github.com/anesriad/VoiceBud-Local-Riad.git
-cd VoiceBud-Local-Riad
+git clone https://github.com/VictorSylva/VoiceBud.git
+cd VoiceBud
 
 # 2. Create and activate a virtual environment
 python -m venv .venv
@@ -107,8 +107,8 @@ ollama serve &
 ollama pull qwen3:4b-instruct
 
 # 2. Clone repository & create virtual environment
-git clone https://github.com/anesriad/VoiceBud-Local-Riad.git
-cd VoiceBud-Local-Riad
+git clone https://github.com/VictorSylva/VoiceBud.git
+cd VoiceBud
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt

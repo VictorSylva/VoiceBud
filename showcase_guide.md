@@ -159,7 +159,7 @@ Engineered with `pythonw.exe` for zero-console background execution, system tray
 
 Includes both real-time dictation and a dark-mode GUI for transcribing audio files (.mp3, .wav, .m4a).
 
-100% Open Source on GitHub: [https://github.com/anesriad/VoiceBud-Local-Riad]
+100% Open Source on GitHub: [https://github.com/VictorSylva/VoiceBud]
 
 What local AI tools are currently in your daily workflow?
 
@@ -191,7 +191,7 @@ What made this project exciting from an AI/ML engineering standpoint was optimiz
 Whether you're writing code in VS Code, replying in Slack, or typing in Word, it works everywhere with zero friction.
 
 It is completely free and open-source. Full setup guide and architecture breakdown here:
-👉 [https://github.com/anesriad/VoiceBud-Local-Riad]
+👉 [https://github.com/VictorSylva/VoiceBud]
 
 Check it out, and let me know your thoughts!
 
